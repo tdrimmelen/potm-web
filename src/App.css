@@ -38,6 +38,7 @@ table {
 
 th,
 td {
+  color: #020000;
   border: 1px solid #333;
   /* Adds border to cells */
   padding: 4px;
